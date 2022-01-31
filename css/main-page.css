@@ -15,7 +15,7 @@ main {
 
 .text {
   display: flex;
-  color: aliceblue;
+  color: var(--font-color-main-text);
   flex-direction: column;
   justify-content: center;
   align-items: center;
