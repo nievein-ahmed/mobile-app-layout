@@ -32,7 +32,7 @@ main {
 }
 
 .text p {
-  font-size: 1rem;
+  font-size: 0.9rem;
   padding-bottom: 50px;
   font-weight: bold;
 }
