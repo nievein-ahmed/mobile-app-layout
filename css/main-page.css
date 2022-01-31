@@ -25,7 +25,7 @@ main {
 }
 
 .text h2 {
-  font-size: 2rem;
+  font-size: 3rem;
   letter-spacing: 0rem;
   padding-bottom: 50px;
   font-weight: bolder;
@@ -70,5 +70,4 @@ main {
 
 .photo2 {
   left: 25%;
-  z-index: 2;
 }
