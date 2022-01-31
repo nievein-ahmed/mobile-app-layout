@@ -49,6 +49,7 @@ main {
   width: 52%;
   height: 100%;
   position: relative;
+  box-shadow: violet;
 }
 
 .pictures .photo2 img {
