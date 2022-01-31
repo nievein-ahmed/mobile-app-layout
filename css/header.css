@@ -30,4 +30,5 @@ header nav ul {
   height: 100%;
   color: aliceblue;
   font-size: small;
+  scroll-padding-block: 20px;
 }
