@@ -12,6 +12,7 @@ header a,
   width: 48%;
   text-align: center;
   font-size: 26px;
+  font-weight: bold;
 }
 
 .links a:first-of-type {
