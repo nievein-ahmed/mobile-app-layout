@@ -15,9 +15,9 @@ header a,
   font-weight: bold;
 }
 
-.links a:first-of-type {
-  background-color: rgb(130, 207, 130);
+.links a:nth-child(n + 1):nth-child(-n + 1) {
+  background-color: rgb(29, 228, 29);
 }
-.links a:last-of-type {
+.links a:nth-child(n + 2):nth-child(-n + 2) {
   background-color: rgb(51, 18, 241);
 }
