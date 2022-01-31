@@ -11,7 +11,7 @@ header {
   display: flex;
   justify-content: center;
 }
-.logo > img {
+.logo img {
   height: 100%;
   width: 25%;
 }
