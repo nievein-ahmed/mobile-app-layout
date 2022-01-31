@@ -34,6 +34,7 @@ main {
 .text p {
   font-size: 1rem;
   padding-bottom: 50px;
+  font-weight: bold;
 }
 
 .links {
